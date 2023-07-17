@@ -62,7 +62,7 @@ For More Information, Please Check [Milk-v Duo](https://milkv.io/docs/duo/overvi
 
 <div align="center">
 <img src=./resources/Model_202307.png
- width="80%"/>
+ width="40%"/>
 </div>
 
 ## Other Document and SDK
