@@ -58,6 +58,13 @@ For More Information, Please Check [Milk-v Duo](https://milkv.io/docs/duo/overvi
 
 <br>
 
+## TPU Supported Model
+
+<div align="center">
+<img src=./resources/Model_202307.png
+ width="80%"/>
+</div>
+
 ## Other Document and SDK
 
 - CV181x/CV180x MultiMedia Framework Software Development Document
