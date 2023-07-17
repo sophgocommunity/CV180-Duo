@@ -39,8 +39,8 @@ For More Information, Please Check [Milk-v Duo](https://milkv.io/docs/duo/overvi
 - [Getting-started Guide(Missing)](Missing)
 
 **Software**
-- [Official Image and SDK](https://github.com/sophgo/sophgo-hardware)
-- [How to 
+- [Official Image and SDK](https://github.com/milkv-duo/duo-buildroot-sdk/releases)
+- [Buildboot your Sys](https://github.com/milkv-duo/duo-buildroot-sdk/tree/develop)
 
 **Hardware**
 - [Duo Datasheet v1.2, PDF](https://github.com/milkv-duo/duo-files)
@@ -68,6 +68,7 @@ For More Information, Please Check [Milk-v Duo](https://milkv.io/docs/duo/overvi
   <br>
   [https://developer.sophgo.com/thread/473.html](https://developer.sophgo.com/thread/473.html)
 
+- [CV181x/180x Hardware Development Document](./CV1800B/CV180xB_HDK)
 
 <br>
 
