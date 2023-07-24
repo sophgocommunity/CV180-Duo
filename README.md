@@ -43,6 +43,7 @@ For More Information, Please Check [Milk-v Duo](https://milkv.io/docs/duo/overvi
 - [Buildboot your Sys](https://github.com/milkv-duo/duo-buildroot-sdk/tree/develop)
 
 **Hardware**
+- [CV180xB Datasheet 0.3.0.0, PDF](https://github.com/sophgocommunity/Duo_Doc/blob/main/CV1800B/%5BPublic%5DCV180ZB_CV1800B_CV1801B_Preliminary_Datasheet_V0.3.0.0_Chinese_Version_EXTERNAL%20for%20Milk-V%2020230529.pdf)
 - [Duo Datasheet v1.2, PDF](https://github.com/milkv-duo/duo-files)
 - [Duo Schematic v1.1, PDF](https://github.com/milkv-duo/duo-files)
 - [Duo Mechanical Drawings v1.1, DXF](https://github.com/milkv-duo/duo-files)
