@@ -35,8 +35,8 @@ For More Information, Please Check [Milk-v Duo](https://milkv.io/docs/duo/overvi
 -----
 
 ## Support & Documentation
-- [Official Website and Community(Missing)](Missing)
-- [Getting-started Guide(Missing)](Missing)
+- [Official Docs for Milk-v Duo](https://milkv.io/docs/duo)
+- [Official Forum for CV1800B](https://forum.sophgo.com/)
 
 **Software**
 - [Official Image and SDK](https://github.com/milkv-duo/duo-buildroot-sdk/releases)
